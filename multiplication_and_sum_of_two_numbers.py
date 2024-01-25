@@ -15,3 +15,9 @@ num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 result = multiplication_or_sum(num1, num2)
 print("The result of the first given is", result)
+
+# second condition
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+result = multiplication_or_sum(num1, num2)
+print("The result of the second given is", result)
